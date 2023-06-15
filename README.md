@@ -43,8 +43,12 @@ pip install -r requirements.txt
 Execute by:
 
 python 1_CCM1-CCM2_ECCM.py
- - Here examine ECCM results, curated output is CCM_ECCM_curated.csv 
+
+ - Here examine ECCM results, curated output is CCM_ECCM_curated.csv
+  
 python 2_SURR.py
+
 python 3_DAG-BN.py
+
 
 
