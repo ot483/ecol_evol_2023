@@ -1,0 +1,29 @@
+,x1,x2,Score,is_Valid,timeToEffect,x1x2,Score_quantile
+0,Temperature,Oxygen,0.629015343610535,2,0.0,Temperature_Oxygen,0.17872288140428125
+1,Temperature,2-Microcystis flos-aquae,0.110737477339636,2,6.0,Temperature_Microcystis flos-aquae,0.07397605692165525
+2,Temperature,Nitrit,0.430489182781125,2,2.0,Temperature_Nitrite,0.10617734517541103
+4,Temperature,Nitrate,0.631504096104688,2,2.0,Temperature_Nitrate,0.17607427071223142
+5,Temperature,Port,0.410751385235951,2,7.0,Temperature_Phosphate,0.1404870415957956
+6,Temperature,Norg_par,0.070221764977051,2,6.0,Temperature_Nitrogen (organic),0.05356816572220808
+7,Oxygen,2-Microcystis flos-aquae,0.102973285000588,2,2.0,Oxygen_Microcystis flos-aquae,0.07113198200628379
+8,Oxygen,Nitrit,0.44041298884442,2,2.0,Oxygen_Nitrite,0.09516666354839569
+9,Oxygen,Nitrate,0.608576854502211,2,0.0,Oxygen_Nitrate,0.16443855929671633
+10,Oxygen,Port,0.409534780268578,2,8.0,Oxygen_Phosphate,0.12708341586944974
+12,Oxygen,Diatomaceae,0.098132400999851,2,10.0,Oxygen_Diatomaceae,0.06605392124076027
+13,2-Microcystis flos-aquae,Norg_par,0.083663282836697,2,1.0,Microcystis flos-aquae_Nitrogen (organic),0.06325644022231033
+14,Nitrit,Oxygen,0.348173372873377,2,0.0,Nitrite_Oxygen,0.0892384214961284
+15,Nitrit,2-Microcystis flos-aquae,0.099002144118849,2,0.0,Nitrite_Microcystis flos-aquae,0.055793961357130877
+16,Nitrit,Nitrate,0.518975453543702,2,0.0,Nitrite_Nitrate,0.09040917896294202
+17,Nitrit,Port,0.314828460711434,2,11.0,Nitrite_Phosphate,0.07801815276077172
+18,Chlorophyta,Oxygen,0.082547884375459,2,0.0,Chlorophyta_Oxygen,0.05765778174588958
+19,Chlorophyta,Nitrit,0.07004027085999,2,14.0,Chlorophyta_Nitrite,0.05507270977462472
+21,Nitrate,Nitrit,0.488140103012943,2,0.0,Nitrate_Nitrite,0.09559676682364966
+22,Nitrate,Port,0.395286971086629,2,8.0,Nitrate_Phosphate,0.12867633018341443
+23,Nitrate,Diatomaceae,0.083354917768503,2,12.0,Nitrate_Diatomaceae,0.0664825869245681
+24,Port,Oxygen,0.289731310464927,2,17.0,Phosphate_Oxygen,0.13273034060207076
+25,Port,2-Microcystis flos-aquae,0.119651502738192,2,9.0,Phosphate_Microcystis flos-aquae,0.07199338109865175
+26,Port,Nitrit,0.323463470533852,2,20.0,Phosphate_Nitrite,0.08849861978843393
+27,Port,Nitrate,0.397201915804952,2,0.0,Phosphate_Nitrate,0.13291720873010734
+28,Diatomaceae,Oxygen,0.104496375404633,2,1.0,Diatomaceae_Oxygen,0.07532313033561464
+29,Chlorophyta,2-Microcystis flos-aquae,0.071080511468993,2,3.0,Chlorophyta_Microcystis flos-aquae,0.059350786501829456
+31,Haptophytes,2-Microcystis flos-aquae,0.104718803110685,2,0.0,Haptophytes_Microcystis flos-aquae,0.09514098403853248
