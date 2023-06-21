@@ -14,7 +14,6 @@ numpy==1.21.5
 pandas==1.4.3
 pydot==1.4.2
 pyEDM==1.14.0.2
-pymongo==3.11.4
 scikit_learn==1.2.2
 scipy==1.8.0
 seaborn==0.11.2
