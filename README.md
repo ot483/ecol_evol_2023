@@ -7,7 +7,6 @@ This code is an implementation of the framework described in the paper: A framew
 # The code is implemented in Python 3.9 (Linux OS, Anaconda) using the following packages:
 auto_shap==0.1.1
 bnlearn==0.7.8
-gseapy==0.10.7
 matplotlib==3.3.2
 networkx==3.0
 numpy==1.21.5
