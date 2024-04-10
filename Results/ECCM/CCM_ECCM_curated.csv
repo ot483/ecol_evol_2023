@@ -1,0 +1,40 @@
+,"x1","x2","Score","is_Valid","timeToEffect"
+0,"Temperature","2-Microcystis flos-aquae",0.06,2,6
+1,"Temperature","Nitrit",0.12,2,2
+2,"Temperature","Norg",0.02,2,10
+3,"Temperature","Oxygen",0.45,2,0
+4,"Temperature","Cryptophytes",0.02,0,
+5,"Temperature","NH4",0.24,2,1
+6,"Diatomaceae","Nitrit",0.05,2,1
+7,"Diatomaceae","Oxygen",0.08,0,
+8,"Diatomaceae","NH4",0.07,2,2
+9,"Prasinophyte","Nitrit",0.06,0,
+10,"Nitrit","Diatomaceae",0.04,2,2
+11,"Nitrit","2-Microcystis flos-aquae",0.09,2,2
+12,"Nitrit","Norg",0.11,2,17
+13,"Nitrit","Haptophytes",0.01,0,
+14,"Nitrit","NH4",0.24,2,1
+15,"Norg","Diatomaceae",0.04,2,8
+16,"Norg","2-Microcystis flos-aquae",0.03,0,
+17,"Norg","Nitrit",0.09,0,
+18,"Norg","Oxygen",0.05,0,
+19,"Norg","NH4",0.08,0,
+20,"Haptophytes","NH4",0.08,2,1
+21,"Oxygen","Diatomaceae",0.05,2,10
+22,"Oxygen","Prasinophyte",0.03,2,15
+23,"Oxygen","2-Microcystis flos-aquae",0.04,2,2
+24,"Oxygen","Nitrit",0.25,2,2
+25,"Oxygen","NH4",0.39,2,3
+26,"Cryptophytes","Nitrit",0.07,2,2
+27,"Cryptophytes","Norg",0.02,2,10
+28,"Cryptophytes","Oxygen",0.07,2,4
+29,"Cryptophytes","NH4",0.12,0,
+30,"NH4","2-Microcystis flos-aquae",0.05,0,
+31,"NH4","Nitrit",0.24,2,0
+32,"NH4","Norg",0.05,2,0
+33,"NH4","Oxygen",0.26,0,
+34,"NH4","Cryptophytes",0.05,2,12
+35,"Diatomaceae","2-Microcystis flos-aquae",0.06,2,17
+36,"Prasinophyte","2-Microcystis flos-aquae",0.09,2,14
+37,"Haptophytes","2-Microcystis flos-aquae",0.09,2,0
+38,"Cryptophytes","2-Microcystis flos-aquae",0.16,2,19
