@@ -1,0 +1,55 @@
+,x1,x2,Score
+0,Temperature,Norg,0.02
+1,Temperature,2-Microcystis flos-aquae,0.06
+2,Temperature,Nitrit,0.12
+3,Temperature,Cryptophytes,0.02
+4,Temperature,Oxygen,0.45
+5,Temperature,NH4,0.24
+6,Norg,Temperature,0.03
+7,Norg,2-Microcystis flos-aquae,0.03
+8,Norg,Nitrit,0.09
+9,Norg,Diatomaceae,0.04
+10,Norg,Oxygen,0.05
+11,Norg,NH4,0.08
+12,2-Microcystis flos-aquae,Temperature,0.05
+13,2-Microcystis flos-aquae,Nitrit,0.2
+14,Haptophytes,Temperature,0.11
+15,Haptophytes,2-Microcystis flos-aquae,0.09
+16,Haptophytes,Cryptophytes,0.1
+17,Haptophytes,NH4,0.08
+18,Prasinophyte,2-Microcystis flos-aquae,0.09
+19,Prasinophyte,Haptophytes,0.17
+20,Prasinophyte,Nitrit,0.06
+21,Prasinophyte,Cryptophytes,0.12
+22,Nitrit,Norg,0.11
+23,Nitrit,2-Microcystis flos-aquae,0.09
+24,Nitrit,Haptophytes,0.01
+25,Nitrit,Diatomaceae,0.04
+26,Nitrit,NH4,0.24
+27,Diatomaceae,2-Microcystis flos-aquae,0.06
+28,Diatomaceae,Haptophytes,0.03
+29,Diatomaceae,Nitrit,0.05
+30,Diatomaceae,Cryptophytes,0.04
+31,Diatomaceae,Oxygen,0.08
+32,Diatomaceae,NH4,0.07
+33,Cryptophytes,Temperature,0.1
+34,Cryptophytes,Norg,0.02
+35,Cryptophytes,2-Microcystis flos-aquae,0.16
+36,Cryptophytes,Haptophytes,0.19
+37,Cryptophytes,Prasinophyte,0.04
+38,Cryptophytes,Nitrit,0.07
+39,Cryptophytes,Diatomaceae,0.05
+40,Cryptophytes,Oxygen,0.07
+41,Cryptophytes,NH4,0.12
+42,Oxygen,Temperature,0.43
+43,Oxygen,2-Microcystis flos-aquae,0.04
+44,Oxygen,Prasinophyte,0.03
+45,Oxygen,Nitrit,0.25
+46,Oxygen,Diatomaceae,0.05
+47,Oxygen,NH4,0.39
+48,NH4,Temperature,0.2
+49,NH4,Norg,0.05
+50,NH4,2-Microcystis flos-aquae,0.05
+51,NH4,Nitrit,0.24
+52,NH4,Cryptophytes,0.05
+53,NH4,Oxygen,0.26
