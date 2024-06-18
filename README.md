@@ -1,5 +1,5 @@
 # ecol_evol_2023
-This code is an implementation of the framework described in the paper: A framework for identifying factors controlling cyanobacterium Microcystis flos-aquae blooms by coupled CCM-ECCM Bayesian networks. Authors: Ofir Tal, Ilia Ostrovsky and Gideon Gal.
+This code is an implementation of the framework described in the paper: A framework for identifying factors controlling cyanobacterium Microcystis flos-aquae blooms by coupled CCM-ECCM Bayesian networks. Authors: Ofir Tal, Ilia Ostrovsky and Gideon Gal. DOI: 10.1002/ece3.11475
 
 # Instructions
 
